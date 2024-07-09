@@ -12,7 +12,7 @@
 
 <div align="center">
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="30" height="30" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="30" height="30" /></div>
-
+<br>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
